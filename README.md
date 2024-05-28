@@ -5,6 +5,34 @@ Made using Windows Forms Application (.NET Framework) with .NET Framework 4.8 ba
 
 ![](/images/print1.png)
 
+# License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+## GNU General Public License v3.0
+
+The GNU General Public License (GPL) is a widely-used, free software license, which guarantees end users the freedom to run, study, share, and modify the software. Here's a summary of your rights and obligations under GPL v3.0:
+
+### Your Rights
+
+- **Use**: You are free to use the software for any purpose.
+- **Study**: You can access and study how the software works, and adapt it to your needs.
+- **Redistribute**: You are allowed to redistribute copies of the original software.
+- **Modify**: You can make modifications to the software and distribute these modifications.
+
+### Your Obligations
+
+- **Share Alike**: If you modify the software and distribute it to others, you must make the source code of your modifications available under the same GPL v3.0 license.
+- **Keep Copyright Notices**: You must retain any copyright notices, license, or disclaimer statements that accompany the original code.
+
+### Restrictions
+
+- **No Additional Restrictions**: You cannot impose any further restrictions on the recipients' exercise of the rights granted herein.
+- **No Tivoization**: The license prohibits the practice of "Tivoization", which refers to the use of software that has been modified in a way that requires it to only run on a specific hardware device.
+
+By choosing to use or distribute this software, you agree to abide by the terms of the GPL v3.0 license.
+
+For the full text of the GNU General Public License v3.0, please see the [official GNU website](https://www.gnu.org/licenses/gpl-3.0.html).
 
 # How to download
 Go to the Releases tab and download it, you don't need to install it, just run and it will work.
